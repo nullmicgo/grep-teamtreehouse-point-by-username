@@ -7,5 +7,5 @@ You can run the following command in the terminal to grep team tree house credit
  
 ![terminal screen](https://raw.githubusercontent.com/nullmicgo/grep-teamtreehouse-point-by-username/master/screen.png)
 
-![JSON Content](https://raw.githubusercontent.com/nullmicgo/grep-teamtreehouse-point-by-username//master/screen002.png)
+![JSON Content](https://raw.githubusercontent.com/nullmicgo/grep-teamtreehouse-point-by-username/master/screen002.png)
 
